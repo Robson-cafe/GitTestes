@@ -10,3 +10,4 @@ Exemplo do que vai acontecer depois do commit. Esta alteração tem que ser add 
 Exemplo para ver diff - git diff
 
 
+Agora é modificação para ver no git on line
