@@ -11,3 +11,5 @@ Exemplo para ver diff - git diff
 
 
 Agora é modificação para ver no git on line
+
+Testando exportação netbeans
